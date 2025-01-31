@@ -60,11 +60,3 @@ The project includes:
 👤 **Saurav Sharma**  
 📧 Email: saur98570@gmail.com
 💼 LinkedIn: https://linkedin.com/in/saurav82190
-
-
----
-
-## 📜 License
-This project is under the **MIT License** – feel free to use and contribute.
-
----
